@@ -1,0 +1,20 @@
+{
+  "name": "javascript",
+  "version": "1.0.0",
+  "description": "aprendiendo javascript",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nahuelusd/javascript.git"
+  },
+  "author": "Nahuel Accorinti",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nahuelusd/javascript/issues"
+  },
+  "homepage": "https://github.com/nahuelusd/javascript#readme"
+}
